@@ -1,0 +1,60 @@
+{
+    "accountList" : [
+        {
+            "id": 1,
+            "name": "우리 첫거래우대 정기예금",
+            "status": 1,
+            "accountNumber": "1000-112-272545",
+            "total": 7777900
+        },
+        {
+            "id": 2,
+            "name": "WON플러스 예금",
+            "status": 2,
+            "accountNumber": "1000-112-166635",
+            "total": 32329000
+        },
+        {
+            "id": 3,
+            "name": "WON 예금",
+            "status": 4,
+            "accountNumber": "1000-112-000321",
+            "total": 61133900
+        },
+        {
+            "id": 4,
+            "name": "WON 적금",
+            "status": 3,
+            "accountNumber": "1000-112-123445",
+            "total": 4242550
+        },
+        {
+            "id": 5,
+            "name": "스무살 우리 정기적금 (도전형-정액적립식)",
+            "status": 4,
+            "accountNumber": "1000-112-281145",
+            "total": 7828200
+        },
+        {
+            "id": 6,
+            "name": "시니어플러스 우리적금(즉시연금형)",
+            "status": 3,
+            "accountNumber": "1000-112-999112",
+            "total": 444400
+        },
+        {
+            "id": 7,
+            "name": "시니어플러스 우리적금(증여우대형)",
+            "status": 1,
+            "accountNumber": "1000-112-444345",
+            "total": 99121200
+        },
+        {
+            "id": 8,
+            "name": "우리 SUPER주거래 자유적금",
+            "status": 1,
+            "accountNumber": "1000-112-111045",
+            "total": 1304460
+        }
+    ]
+}
